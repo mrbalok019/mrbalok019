@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shanchayan Bhattacharyya</h1>
 <h3 align="center">A passionate Webapp developer from Bangladesh.</h3>
 
-<img src="https://i.ibb.co/7JyTJ9Q/coding.gif" align="right" width="450" height="340">
+<img src="https://i.ibb.co/G3CcMYN/building-webpage.gif" align="right" width="320" height="240">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbalok019&label=Profile%20views&color=0e75b6&style=flat" alt="mrbalok019" /> </p>
 
